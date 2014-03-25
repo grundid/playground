@@ -20,6 +20,7 @@
 		3A5B252C18E1CF0900BD9103 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3A5B252A18E1CF0900BD9103 /* InfoPlist.strings */; };
 		3A5B252E18E1CF0900BD9103 /* PlaygroundTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A5B252D18E1CF0900BD9103 /* PlaygroundTests.m */; };
 		3A5B253818E1D05C00BD9103 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A5B253718E1D05C00BD9103 /* Storyboard.storyboard */; };
+		3A5B253A18E1F5EB00BD9103 /* IMG_20140309_131845_lasso_wine_bottle_holder.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A5B253918E1F5EB00BD9103 /* IMG_20140309_131845_lasso_wine_bottle_holder.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		3A5B252B18E1CF0900BD9103 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3A5B252D18E1CF0900BD9103 /* PlaygroundTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlaygroundTests.m; sourceTree = "<group>"; };
 		3A5B253718E1D05C00BD9103 /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		3A5B253918E1F5EB00BD9103 /* IMG_20140309_131845_lasso_wine_bottle_holder.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_20140309_131845_lasso_wine_bottle_holder.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 		3A5B250E18E1CF0900BD9103 /* Playground */ = {
 			isa = PBXGroup;
 			children = (
+				3A5B253918E1F5EB00BD9103 /* IMG_20140309_131845_lasso_wine_bottle_holder.jpg */,
 				3A5B251718E1CF0900BD9103 /* BPGAppDelegate.h */,
 				3A5B251818E1CF0900BD9103 /* BPGAppDelegate.m */,
 				3A5B251A18E1CF0900BD9103 /* Images.xcassets */,
@@ -223,6 +226,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A5B253A18E1F5EB00BD9103 /* IMG_20140309_131845_lasso_wine_bottle_holder.jpg in Resources */,
 				3A5B251318E1CF0900BD9103 /* InfoPlist.strings in Resources */,
 				3A5B251B18E1CF0900BD9103 /* Images.xcassets in Resources */,
 				3A5B253818E1D05C00BD9103 /* Storyboard.storyboard in Resources */,
