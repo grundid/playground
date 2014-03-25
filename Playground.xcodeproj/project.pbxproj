@@ -19,6 +19,7 @@
 		3A5B252418E1CF0900BD9103 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A5B250C18E1CF0900BD9103 /* UIKit.framework */; };
 		3A5B252C18E1CF0900BD9103 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3A5B252A18E1CF0900BD9103 /* InfoPlist.strings */; };
 		3A5B252E18E1CF0900BD9103 /* PlaygroundTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A5B252D18E1CF0900BD9103 /* PlaygroundTests.m */; };
+		3A5B253818E1D05C00BD9103 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A5B253718E1D05C00BD9103 /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		3A5B252918E1CF0900BD9103 /* PlaygroundTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PlaygroundTests-Info.plist"; sourceTree = "<group>"; };
 		3A5B252B18E1CF0900BD9103 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3A5B252D18E1CF0900BD9103 /* PlaygroundTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlaygroundTests.m; sourceTree = "<group>"; };
+		3A5B253718E1D05C00BD9103 /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				3A5B251818E1CF0900BD9103 /* BPGAppDelegate.m */,
 				3A5B251A18E1CF0900BD9103 /* Images.xcassets */,
 				3A5B250F18E1CF0900BD9103 /* Supporting Files */,
+				3A5B253718E1D05C00BD9103 /* Storyboard.storyboard */,
 			);
 			path = Playground;
 			sourceTree = "<group>";
@@ -222,6 +225,7 @@
 			files = (
 				3A5B251318E1CF0900BD9103 /* InfoPlist.strings in Resources */,
 				3A5B251B18E1CF0900BD9103 /* Images.xcassets in Resources */,
+				3A5B253818E1D05C00BD9103 /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
